@@ -1,0 +1,32 @@
+D:\برمجة\CosaNostra\Builder\Builder\bin\Debug\Builder.exe.config
+D:\برمجة\CosaNostra\Builder\Builder\bin\Debug\Builder.exe
+D:\برمجة\CosaNostra\Builder\Builder\bin\Debug\Builder.pdb
+D:\برمجة\CosaNostra\Builder\Builder\bin\Debug\Builder.xml
+D:\برمجة\CosaNostra\Builder\Builder\obj\Debug\Builder.Form1.resources
+D:\برمجة\CosaNostra\Builder\Builder\obj\Debug\Builder.Resources.resources
+D:\برمجة\CosaNostra\Builder\Builder\obj\Debug\Builder.vbproj.GenerateResource.Cache
+D:\برمجة\CosaNostra\Builder\Builder\obj\Debug\Builder.exe
+D:\برمجة\CosaNostra\Builder\Builder\obj\Debug\Builder.xml
+D:\برمجة\CosaNostra\Builder\Builder\obj\Debug\Builder.pdb
+D:\MyWork\برمجة\CosaNostra\Builder\Builder\bin\Debug\Builder.exe.config
+D:\MyWork\برمجة\CosaNostra\Builder\Builder\obj\Debug\Builder.exe
+D:\MyWork\برمجة\CosaNostra\Builder\Builder\obj\Debug\Builder.xml
+D:\MyWork\برمجة\CosaNostra\Builder\Builder\obj\Debug\Builder.pdb
+D:\MyWork\برمجة\CosaNostra\Builder\Builder\bin\Debug\Builder.exe
+D:\MyWork\برمجة\CosaNostra\Builder\Builder\bin\Debug\Builder.pdb
+D:\MyWork\برمجة\CosaNostra\Builder\Builder\bin\Debug\Builder.xml
+D:\MyWork\برمجة\CosaNostra\Builder\Builder\obj\Debug\Builder.Form1.resources
+D:\MyWork\برمجة\CosaNostra\Builder\Builder\obj\Debug\Builder.Resources.resources
+D:\MyWork\برمجة\CosaNostra\Builder\Builder\obj\Debug\Builder.vbproj.GenerateResource.Cache
+C:\Users\matze\Desktop\Neuer Ordner (7)\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\matze\Desktop\Neuer Ordner (7)\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\matze\Desktop\Neuer Ordner (7)\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\matze\Desktop\Neuer Ordner (7)\Builder\Builder\bin\Debug\Builder.xml
+C:\Users\matze\Desktop\Neuer Ordner (7)\Builder\Builder\obj\Debug\Builder.vbproj.AssemblyReference.cache
+C:\Users\matze\Desktop\Neuer Ordner (7)\Builder\Builder\obj\Debug\Builder.Form1.resources
+C:\Users\matze\Desktop\Neuer Ordner (7)\Builder\Builder\obj\Debug\Builder.Resources.resources
+C:\Users\matze\Desktop\Neuer Ordner (7)\Builder\Builder\obj\Debug\Builder.vbproj.GenerateResource.cache
+C:\Users\matze\Desktop\Neuer Ordner (7)\Builder\Builder\obj\Debug\Builder.vbproj.CoreCompileInputs.cache
+C:\Users\matze\Desktop\Neuer Ordner (7)\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\matze\Desktop\Neuer Ordner (7)\Builder\Builder\obj\Debug\Builder.xml
+C:\Users\matze\Desktop\Neuer Ordner (7)\Builder\Builder\obj\Debug\Builder.pdb
